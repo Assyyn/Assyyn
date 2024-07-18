@@ -2,8 +2,6 @@
 
 <div class ="stats" align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Assyyn&hide=stars&count_private=true&show_icons=true&theme=catppuccin_mocha&border_radius=10)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Assyyn&theme=catppuccin-macchiato&border_radius=10&fire=ED8796&sideLabels=CAD3F5&stroke=F5BDE6&background=45%2C24273A%2C181926&border=B7BDF8&ring=EE99A0)
 
 <p>
@@ -16,7 +14,5 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" /></a>  
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>    
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Assyyn&layout=compact&theme=catppuccin_mocha&show_icons=true&border_radius=10)
 
 </div>
