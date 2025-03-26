@@ -13,6 +13,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" /></a>  
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>    
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" /></a>    
+  
 </p>
 
 </div>
